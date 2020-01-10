@@ -8,3 +8,5 @@ __MACOSX/
 att_faces/
 *.csv
 libsvm-3.23/
+*.npy
+*.gz
