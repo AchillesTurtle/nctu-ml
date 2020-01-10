@@ -1,0 +1,10 @@
+lecture/
+*.zip
+.idea/
+*.txt
+__pycache__/
+*.docx
+__MACOSX/
+att_faces/
+*.csv
+libsvm-3.23/
