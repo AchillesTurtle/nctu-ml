@@ -10,3 +10,5 @@ att_faces/
 libsvm-3.23/
 *.npy
 *.gz
+*.png
+*.gif
